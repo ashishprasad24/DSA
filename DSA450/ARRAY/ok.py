@@ -46,4 +46,4 @@ if __name__ =='__main__':
 	print("Minimum element is", mn)
 	print("Maximum element is", mx)
 	
-# This code is contributed by Kaustav
+
